@@ -1,0 +1,15 @@
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\bin\Debug\net10.0\job02_ex.exe
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\bin\Debug\net10.0\job02_ex.deps.json
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\bin\Debug\net10.0\job02_ex.runtimeconfig.json
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\bin\Debug\net10.0\job02_ex.dll
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\bin\Debug\net10.0\job02_ex.pdb
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\obj\Debug\net10.0\job02_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\obj\Debug\net10.0\job02_ex.AssemblyInfoInputs.cache
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\obj\Debug\net10.0\job02_ex.AssemblyInfo.cs
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\obj\Debug\net10.0\job02_ex.csproj.CoreCompileInputs.cache
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\obj\Debug\net10.0\job02_ex.sourcelink.json
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\obj\Debug\net10.0\job02_ex.dll
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\obj\Debug\net10.0\refint\job02_ex.dll
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\obj\Debug\net10.0\job02_ex.pdb
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\obj\Debug\net10.0\job02_ex.genruntimeconfig.cache
+C:\Users\chapu\Documents\Visual_Studio_Code\Runtrack-CSharp\jour2\job02\job02_ex\obj\Debug\net10.0\ref\job02_ex.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chapu\\Documents\\Visual_Studio_Code\\Runtrack-CSharp\\jour2\\job02\\job02_ex\\job02_ex.csproj": {}
+    "C:\\Users\\chapu\\Documents\\Visual_Studio_Code\\Runtrack-CSharp\\jour3\\job01\\job01_ex\\job01_ex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chapu\\Documents\\Visual_Studio_Code\\Runtrack-CSharp\\jour2\\job02\\job02_ex\\job02_ex.csproj": {
+    "C:\\Users\\chapu\\Documents\\Visual_Studio_Code\\Runtrack-CSharp\\jour3\\job01\\job01_ex\\job01_ex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chapu\\Documents\\Visual_Studio_Code\\Runtrack-CSharp\\jour2\\job02\\job02_ex\\job02_ex.csproj",
-        "projectName": "job02_ex",
-        "projectPath": "C:\\Users\\chapu\\Documents\\Visual_Studio_Code\\Runtrack-CSharp\\jour2\\job02\\job02_ex\\job02_ex.csproj",
+        "projectUniqueName": "C:\\Users\\chapu\\Documents\\Visual_Studio_Code\\Runtrack-CSharp\\jour3\\job01\\job01_ex\\job01_ex.csproj",
+        "projectName": "job01_ex",
+        "projectPath": "C:\\Users\\chapu\\Documents\\Visual_Studio_Code\\Runtrack-CSharp\\jour3\\job01\\job01_ex\\job01_ex.csproj",
         "packagesPath": "C:\\Users\\chapu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chapu\\Documents\\Visual_Studio_Code\\Runtrack-CSharp\\jour2\\job02\\job02_ex\\obj\\",
+        "outputPath": "C:\\Users\\chapu\\Documents\\Visual_Studio_Code\\Runtrack-CSharp\\jour3\\job01\\job01_ex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chapu\\AppData\\Roaming\\NuGet\\NuGet.Config"

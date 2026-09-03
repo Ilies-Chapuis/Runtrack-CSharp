@@ -7,7 +7,7 @@ string classe = "Assassin";
 double piecesOr = 102;
 bool estNouveau = true;
 
-Console.WriteLine("=== Fiche d'aventurier ===");
+Console.WriteLine("Fiche d'aventurier");
 Console.WriteLine("Nom : " + nom);
 Console.WriteLine("Age : " + age);
 Console.WriteLine("Niveau : " + niveau);
